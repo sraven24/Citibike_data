@@ -2,7 +2,8 @@
 In this project, data was retrieved from the Citibike database in order to create a story in Tableau about the data trends found within that time frame.
 
 # Notes for Visualizations
--Please note that when you are looking at the story on Tableau, making sure to view it in full-screen wide screen format.
+-Please note that when you are looking at the story on Tableau, make sure to view it in full-screen wide screen format.
+
 -The data was further transformed via Jupyter Notebook, a copy of which is contained on this repository
 
 # Analysis
